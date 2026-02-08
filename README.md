@@ -10,4 +10,6 @@ W zakładce zużycie wpisz jednostkowy nakład na produkcję wyrobu
 
 
 Dependencies
-pulp, PySide6
+```
+pip intall pulp PySide6
+```
